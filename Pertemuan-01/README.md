@@ -1,7 +1,7 @@
 # Algoritma dan Pemrograman - Pertemuan 01
 
 Nama: Firgi Erviansyah
-NIM: [isi NIM kamu]
+NIM: [2225250170]
 Program Studi: Pendidikan Matematika
 
 ## Isi Folder
